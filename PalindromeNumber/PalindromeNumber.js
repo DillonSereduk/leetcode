@@ -15,5 +15,6 @@ var isPalindrome = function(x) {
     return x === reversed;
 };
 
+^^^^
 // Time Complexity: O(n)
 // Space Coamplexity: O(1)
