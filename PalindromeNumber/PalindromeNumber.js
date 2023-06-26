@@ -31,3 +31,6 @@ var isPalindrome = function(x) {
         for(let i = x; i >= 1; i = Math.floor(i/10)) reverse = reverse * 10 + i%10;
         return reverse === x;
 };
+
+// Time Complexity:
+//Space Complexity:
